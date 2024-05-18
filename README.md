@@ -5,9 +5,10 @@ Hello! I'm Janez Martin Kričej, an aspiring engineer with a background in Docke
 ## 🔭 I’m currently working on
 - Enhancing my Azure skills.
 - Developing AI-powered chatbots with LLM frameworks.
+- Enhancing my skills to become a more competitive job candidate
 
 ## 🌱 I’m currently learning
-- Advanced Azure concepts.
+- Azure concepts.
 - German language (A2 level).
 - SQL
 
