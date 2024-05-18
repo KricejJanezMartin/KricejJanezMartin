@@ -26,7 +26,7 @@ Hello! I'm Janez Martin Kričej, an aspiring engineer with a background in Docke
 ## 💬 Ask me about
 - Docker and LLamaIndex
 - SQL
-- Python for ML and automation.
+- Basic networking and homelab
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/janez-martin-kri%C4%8Dej-16976392/)
