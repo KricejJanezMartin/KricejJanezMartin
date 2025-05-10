@@ -11,7 +11,7 @@ I'm a DevSecOps/AI Engineer at Agenda d.o.o., specializing in RedHat OpenShift A
 - Engineer behind [ragla.eu](https://ragla.eu) - Agenda's platform for localized AI solutions
 
 ## 💡 Recent Accomplishments
-- Speaker at OpenCon 2024 and RedHat Talks Ljubljana 2025 on OpenShift AI
+- Speaker at OpenCon 2024 [LinkedIn Post](https://www.linkedin.com/posts/janezmartinkri%C4%8Dej_ai-openshiftai-llm-activity-7252736013523898368-7Me3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOwbyEBCL6HBRFKwsgUuEOAkc06o0f3ZNo) and RedHat Talks Ljubljana 2025 [LinkedIn Post](https://www.linkedin.com/posts/stasleszczynski_openshift-openshift-ansible-activity-7325554155207446528-OfuI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOwbyEBCL6HBRFKwsgUuEOAkc06o0f3ZNo) on OpenShift AI
 - Attended RedHat Summit Boston 2025
 - Completed RedHat Certified System Administrator (RHCSA)
 - IBM WatsonX Technical Sales certification
@@ -43,12 +43,14 @@ I'm a DevSecOps/AI Engineer at Agenda d.o.o., specializing in RedHat OpenShift A
 - Vector database optimizations
 - RAG implementations for specialized domains
 - Enterprise AI solutions
+- Helping anyone with idea of AI use to deploy it and scale it
 
 ## 💬 Ask Me About
 - Setting up RAG pipelines with llama-index and vector databases
 - OpenShift AI deployment strategies
 - Docker/container orchestration best practices
 - Homelab setups and self-hosting
+- Which library is better for RAG and Agentic AI langfuse or llama-index - of course llama-index :sunglasses:
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/janez-martin-kri%C4%8Dej-16976392/)
@@ -56,8 +58,9 @@ I'm a DevSecOps/AI Engineer at Agenda d.o.o., specializing in RedHat OpenShift A
 - [GitHub](https://github.com/KricejJanezMartin)
 - [Credly](https://www.credly.com/users/jmk) - View all my certifications
 
-## ⚡ Fun Fact
-Previously I was looking for a job until AI took over - now I'm helping to build that AI!
+## ⚡ Fun Facts
+- Previously I was looking for a job until AI took over - now I'm helping to build that AI!
+- Seeing all the new models I am taking more and more LLM agnostic approach as LLMs come and go.
 
 <!--
 **KricejJanezMartin/KricejJanezMartin** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
