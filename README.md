@@ -1,57 +1,64 @@
-## 👋 Introduction
+# 👋 Hello, I'm Janez Martin Kričej
 
-Hello! I'm Janez Martin Kričej, an aspiring engineer with a background in Docker, MySQL administration, and Linux server management. While I have customer-facing experience, I am eager to advance my skills in AI and cloud technologies, particularly with Microsoft Azure and machine learning, focusing on large language models (LLMs).
+## 💼 Professional Profile
+I'm a DevSecOps/AI Engineer at Agenda d.o.o., specializing in RedHat OpenShift AI, containerization technologies, and developing innovative AI solutions. With expertise in machine learning, particularly LLMs and vector databases, I'm focused on creating enterprise-ready AI implementations and RAG-based solutions.
 
-## 🔭 I’m currently working on
-- Enhancing my Azure skills.
-- Developing AI-powered chatbots with LLM frameworks.
-- Enhancing my skills to become a more competitive job candidate
+## 🚀 Current Work
+- Leading AI engineering initiatives at Agenda d.o.o.
+- Developing and deploying RAG solutions using vector databases (PGVector, Qdrant) with hybrid search
+- Implementing and optimizing LLM frameworks with llama-index
+- Designing and maintaining OpenShift AI environments
+- Engineer behind [ragla.eu](https://ragla.eu) - Agenda's platform for localized AI solutions
 
-## 🌱 I’m currently learning
-- Azure concepts.
-- German language (A2 level).
-- SQL
+## 💡 Recent Accomplishments
+- Speaker at OpenCon 2024 and RedHat Talks Ljubljana 2025 on OpenShift AI
+- Attended RedHat Summit Boston 2025
+- Completed RedHat Certified System Administrator (RHCSA)
+- IBM WatsonX Technical Sales certification
+- Successfully deployed WatsonX for enterprise clients
 
-## 👯 I’m looking to collaborate on
-- Docker, Kubernetes, and cloud projects.
-- ML projects, especially NLP and chatbots.
-- Cloud or SaaS
-- Supporting roles for customers
+## 🛠️ Tech Stack
+- **Containers & Orchestration**: OpenShift, Docker, Kubernetes
+- **AI/ML**: LLM frameworks (llama-index), Vector Databases (Qdrant, PGVector), WatsonX
+- **CI/CD**: Tekton, GitLab CI/CD, Sonarqube
+- **Infrastructure**: RHEL, Ubuntu, Proxmox, Hetzner Cloud
+- **Languages**: Python (ML-focused), Java, Basic JavaScript
+- **GPU Technologies**: NVIDIA MIG, Time-slicing, L40S GPUs
 
-## 🤔 I’m looking for help with
-- Advanced Kubernetes deployments.
-- Large-scale ML model deployment.
-- AZ Cloud development
+## 🔍 Areas of Expertise
+- RAG (Retrieval-Augmented Generation) implementations
+- AI infrastructure design and optimization
+- OpenShift AI deployment and management
+- Linux server administration
+- Enterprise AI solution architecture
 
-## 💬 Ask me about
-- Docker and LLamaIndex
-- SQL
-- Basic networking and homelab
+## 🌱 Currently Learning
+- Advanced prompt engineering techniques
+- German language (working toward A2 level)
+- Latest developments in multi-modal AI models
+- Enterprise-grade AI deployment strategies
 
-## 📫 How to reach me
+## 👯 Looking to Collaborate On
+- Open-source AI and ML projects
+- Vector database optimizations
+- RAG implementations for specialized domains
+- Enterprise AI solutions
+
+## 💬 Ask Me About
+- Setting up RAG pipelines with llama-index and vector databases
+- OpenShift AI deployment strategies
+- Docker/container orchestration best practices
+- Homelab setups and self-hosting
+
+## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/janez-martin-kri%C4%8Dej-16976392/)
 - [Email](mailto:janez.kricej@protonmail.com)
 - [GitHub](https://github.com/KricejJanezMartin)
+- [Credly](https://www.credly.com/users/jmk) - View all my certifications
 
-## 😄 Pronouns
-- He/Him
-
-## ⚡ Fun fact
-Currently I'm on the lookout for a job until AI takes over!
-
-
+## ⚡ Fun Fact
+Previously I was looking for a job until AI took over - now I'm helping to build that AI!
 
 <!--
-**KricejJanezMartin/KricejJanezMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**KricejJanezMartin/KricejJanezMartin** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
