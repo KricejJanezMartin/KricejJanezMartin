@@ -19,7 +19,7 @@ I'm a DevSecOps/AI Engineer at Agenda d.o.o., specializing in RedHat OpenShift A
 
 ## 🛠️ Tech Stack
 - **Containers & Orchestration**: OpenShift, Docker, Kubernetes
-- **AI/ML**: LLM frameworks (llama-index), Vector Databases (Qdrant, PGVector), WatsonX
+- **AI/ML**: LLM frameworks (llama-index), Vector Databases (Qdrant, PGVector), WatsonX, OCP AI
 - **CI/CD**: Tekton, GitLab CI/CD, Sonarqube
 - **Infrastructure**: RHEL, Ubuntu, Proxmox, Hetzner Cloud
 - **Languages**: Python (ML-focused), Java, Basic JavaScript
@@ -36,7 +36,7 @@ I'm a DevSecOps/AI Engineer at Agenda d.o.o., specializing in RedHat OpenShift A
 - Advanced prompt engineering techniques
 - German language (working toward A2 level)
 - Latest developments in multi-modal AI models
-- Enterprise-grade AI deployment strategies
+- Enterprise-grade AI deployment strategies (OCP AI and WatsonX)
 
 ## 👯 Looking to Collaborate On
 - Open-source AI and ML projects
