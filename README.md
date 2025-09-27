@@ -11,6 +11,7 @@ I'm a DevSecOps/AI Engineer at Agenda d.o.o., specializing in RedHat OpenShift A
 - Engineer behind [ragla.eu](https://ragla.eu) - Agenda's platform for localized AI solutions
 
 ## 💡 Recent Accomplishments
+- Certified Openshift AI Specialist
 - Speaker at OpenCon 2024 [LinkedIn Post](https://www.linkedin.com/posts/janezmartinkri%C4%8Dej_ai-openshiftai-llm-activity-7252736013523898368-7Me3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOwbyEBCL6HBRFKwsgUuEOAkc06o0f3ZNo) and RedHat Talks Ljubljana 2025 [LinkedIn Post](https://www.linkedin.com/posts/stasleszczynski_openshift-openshift-ansible-activity-7325554155207446528-OfuI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOwbyEBCL6HBRFKwsgUuEOAkc06o0f3ZNo) on OpenShift AI
 - Attended RedHat Summit Boston 2025
 - Completed RedHat Certified System Administrator (RHCSA)
